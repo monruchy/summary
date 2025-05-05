@@ -9,7 +9,7 @@
 * Recursion
 * Standard Template Library (`vector`, `map`, `multimap`)
 
-# Reference
+# Credit
 
 * https://github.com/tchomphoochan/summary
 
